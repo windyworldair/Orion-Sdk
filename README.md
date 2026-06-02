@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 📋 Orion-Sdk Repository
+# 📋 Orion-Agent Repository
 
 ### **The Orion Agent Development Archive**
 **Transparency • Experiments • Scrapped Code • Work-in-Progress**
